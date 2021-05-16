@@ -1,0 +1,3 @@
+- [x] Criar projeto - react-native init crud
+- [x] instalar LIBS  yarn add react-hook-form @hookform/resolvers yup
+- [x] Criar componente TextField
